@@ -1,4 +1,5 @@
 *.swp
+*.txt 
 
 .ipynb_checkpoints/
 kddcup.data
