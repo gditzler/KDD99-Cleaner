@@ -1,0 +1,9 @@
+*.swp
+
+.ipynb_checkpoints/
+kddcup.data
+kddcup.data.gz
+kddcup.data_10_percent
+
+
+
